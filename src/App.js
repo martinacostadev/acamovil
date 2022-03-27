@@ -5,7 +5,7 @@ function App() {
     <div className="App">
 
       <header className='header'>
-        {/* <img src="https://cdn-icons-png.flaticon.com/512/63/63830.png" width={16} alt="info" /> */}
+        <img src="/img/info.png" width={24} alt="info" />
         <span className='title'>¿Cómo actuar en caso de accidente?</span>
       </header>
 
